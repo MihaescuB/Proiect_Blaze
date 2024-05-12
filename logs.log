@@ -1,0 +1,8 @@
+2024-05-12 21:24:24 INFO Tests.ContactTest contactTest - Starting Contact Test
+2024-05-12 21:24:25 INFO PageObjects.ContactPage navigateToContactForm - Navigated to the contact form.
+2024-05-12 21:24:25 INFO Tests.ContactTest contactTest - Navigated to Contact Form
+2024-05-12 21:24:26 INFO Tests.ContactTest contactTest - Contact Form is visible
+2024-05-12 21:24:27 INFO PageObjects.ContactPage fillContactForm - Filled the contact form with provided data.
+2024-05-12 21:24:27 INFO Tests.ContactTest contactTest - Filled Contact Form
+2024-05-12 21:24:27 INFO PageObjects.ContactPage submitContactForm - Submitted the contact form.
+2024-05-12 21:24:27 INFO PageObjects.ContactPage acceptAlert - Accepted the alert.
